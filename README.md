@@ -1,2 +1,5 @@
-# URL_Shield
-URL Checker to prevent from identity theft
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
