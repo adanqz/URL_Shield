@@ -1,20 +1,18 @@
 # **URL Shield (No+UsurpaciónDeIdentidad)**
 
-URL Shield es una aplicación desarrollada en Python utilizando TensorFlow y Keras (RNN) para detectar URLs maliciosas y prevenir el robo de identidad. Este proyecto evalúa múltiples factores de riesgo para clasificar URLs y ayudar a los usuarios a mantenerse seguros en línea.
-
+# URL Shield es una aplicación desarrollada en Python utilizando TensorFlow y Keras (RNN) para detectar URLs maliciosas y prevenir el robo de identidad. Este proyecto evalúa múltiples factores de riesgo para clasificar URLs y ayudar a los usuarios a mantenerse seguros en línea.
 
 ## **Características**
 
-- **Detección de URLs Maliciosas**: Analiza URLs en función de varios factores de riesgo.
+# - **Detección de URLs Maliciosas**: Analiza URLs en función de varios factores de riesgo.
 
 - **Modelo de Redes Neuronales**: Utiliza una Red Neuronal Recurrente (RNN) para mejorar la precisión de la detección.
 
 - **Interfaz Amigable**: Proporciona una experiencia fácil de usar para que cualquier persona pueda verificar URLs.
 
-
 ## **Factores de Riesgo Evaluados**
 
-1. **Longitud de URL**: URLs anormalmente largas pueden ocultar intenciones maliciosas.
+# 1. **Longitud de URL**: URLs anormalmente largas pueden ocultar intenciones maliciosas.
 
 2. **Antigüedad del Dominio**: Dominios muy nuevos se asocian a menudo con estafas.
 
@@ -36,53 +34,27 @@ URL Shield es una aplicación desarrollada en Python utilizando TensorFlow y Ker
 
 11. **Typosquatting**: URLs que imitan sitios populares con pequeños errores.
 
-
 ## **Instalación**
 
-Para instalar URL Shield, sigue estos pasos:
-
-Clona el repositorio:\
+Para instalar URL Shield, sigue estos pasos:Clona el repositorio:\
 \
 &#x20;bash\
 Copy\
-git clone https\://github.com/tuusuario/url-shield.git
-
-cd url-shield
-
-1.
-
-Instala las dependencias:\
+git clone https\://github.com/tuusuario/url-shield.gitcd url-shield1)Instala las dependencias:\
 \
 &#x20;bash\
 Copy\
-pip install -r requirements.txt
-
-2.
-
+pip install -r requirements.txt2)
+=================================
 
 ## **Uso**
 
-Ejecuta la aplicación con el siguiente comando:
-
-bash
-
-Copy
-
-python app.py
-
-Introduce la URL que deseas verificar y recibe un informe sobre su seguridad.
-
-
-## **Diagrama de Flujo**
-
-Diagrama de Flujo
-
+# Ejecuta la aplicación con el siguiente comando:bashCopypython app.pyIntroduce la URL que deseas verificar y recibe un informe sobre su seguridad.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9kGn-fuwqvASlTt7uqc0FUxMYfdvDuF0kgaYdqGICn-VxkEODAtzFnFsDSX8TCc6cqaayIdaVer2hdPlVhzSxIpomOzHKPGnjc_0pIxRnP1iVEhmV3E5TFVoINGKuZJlLHL3a?key=NdHKYHTIOWHQuL0YysmLmA)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0lCMqvVJFiclB6tp2bZFK83InE8QtSVNOb4Vd0IIzq7W5Ta6NVF6LATw3XwRzIlG5DDjc8L_dMnrifZ3LPQJaI2kcNF6eLD73oFMz8cfovFUe8IDw4dHuLDjHIoSTO-xiC1nDvQ?key=NdHKYHTIOWHQuL0YysmLmA)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKfb8UViO2USn_50OolmBuzMvGkB3twKZZ_Jc2lD9obB-3zjgiypoPzAdqx9b8IcRAdJmTRh4xL6h00jeuSzXcRuAdZPIgCScO34KIY2N-mAo2FBXrym2h_XswMxUdWMwCm7VFcA?key=NdHKYHTIOWHQuL0YysmLmA)
 
 ## **Contribuciones**
 
-Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o un pull request.
-
+# Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o un pull request.
 
 ## **Licencia**
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+# Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
